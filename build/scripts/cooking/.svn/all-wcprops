@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking
+END
+RunPhoton_mon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunPhoton_mon.pl
+END
+RunScaler_mon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunScaler_mon.pl
+END
+get_tape_vol.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/get_tape_vol.pl
+END
+RunInelastic_mon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunInelastic_mon.pl
+END
+get_file_list.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/get_file_list.pl
+END
+RunPid_mon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunPid_mon.pl
+END
+RunGflux.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunGflux.pl
+END
+cooking.readme
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/cooking.readme
+END
+RunG8_mon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunG8_mon.pl
+END
+CreateDBtable.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/CreateDBtable.pl
+END
+RunElastic_mon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunElastic_mon.pl
+END
+kill_all.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/kill_all.pl
+END
+ENV_SRC_FILE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/ENV_SRC_FILE
+END
+ProcessRun
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/ProcessRun
+END
+RuntFilter.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RuntFilter.pl
+END
+UpdateCalibMaps.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/UpdateCalibMaps.pl
+END
+RunDSTmaker.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunDSTmaker.pl
+END
+RunSync.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunSync.pl
+END
+RunEC_ntupilizer.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunEC_ntupilizer.pl
+END
+RunG1_filter.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunG1_filter.pl
+END
+GetMapFloat.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/GetMapFloat.pl
+END
+RunRF_mon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunRF_mon.pl
+END
+MoveFile.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/MoveFile.pl
+END
+tape_jobs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/tape_jobs.pl
+END
+RunTag_mon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunTag_mon.pl
+END
+CheckDir.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/CheckDir.pl
+END
+submit_cached_files.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/submit_cached_files.pl
+END
+RunPDU.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunPDU.pl
+END
+makeSub
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/makeSub
+END
+RunPhysfilter.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunPhysfilter.pl
+END
+RunE_filter.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunE_filter.pl
+END
+RunG_filter.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunG_filter.pl
+END
+plot_strip_chart.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/plot_strip_chart.pl
+END
+RunCC_mon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunCC_mon.pl
+END
+RunItalian_filt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunItalian_filt.pl
+END
+RunJob
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunJob
+END
+file_monitor.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/file_monitor.pl
+END
+NEXT_TAPE.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/NEXT_TAPE.pl
+END
+RunA1c.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunA1c.pl
+END
+nextRun
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/nextRun
+END
+RunTrk_mon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunTrk_mon.pl
+END
+RunKK_filter.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunKK_filter.pl
+END
+changedb_entry
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/changedb_entry
+END
+RunSC_mon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/RunSC_mon.pl
+END
+lookatrun
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clas/!svn/ver/578/trunk/scripts/cooking/lookatrun
+END
